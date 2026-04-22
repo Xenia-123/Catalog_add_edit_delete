@@ -54,6 +54,7 @@
   <details>
   <summary>   
     
+*нажмите, чтобы раскрыть*
 
 
   </summary>
