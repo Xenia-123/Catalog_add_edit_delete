@@ -13,4 +13,5 @@
 4. можно просмотреть в каталоге и убедиться, что товар добавился:
 <img width="825" height="477" alt="photo_2026-04-22_17-04-26" src="https://github.com/user-attachments/assets/e09029c6-64d3-4dce-9451-a52371113532" />
   </summary>
+</details>
 ## РЕДАКТИРОВАНИЕ ТОВАРА:
